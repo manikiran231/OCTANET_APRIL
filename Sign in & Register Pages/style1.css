@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    background-color: beige;
+}
+nav{
+    font-size:  17px;
+    padding: 0 0 0 3rem;
+    margin: 5rem 0 0 30rem;
+    border: black solid 1px;
+    max-width: 300px;
+    line-height: 30px;
+    border-radius: 2.1rem;
+    background-color: rgb(240, 248, 255);
+}
+
+
+h1{
+    padding-left: 50px;
+    font-size: 43px;
+}
+button{
+    width: 254px;
+    border-radius: 0.2rem;
+    
+    cursor: pointer;
+}
+button a{
+    text-decoration-line: none;
+    color: black;
+    cursor: pointer;
+    display: block;
+}
+input{
+    width: 250px;
+}
